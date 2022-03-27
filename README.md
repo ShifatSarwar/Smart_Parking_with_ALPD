@@ -1,4 +1,4 @@
-# Smart_Parking_with_ALPD
+# Smart Parking with ALPD
 
 ### Functions
 * Automated License plate Detection using YOLOv4 tiny
